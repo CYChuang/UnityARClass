@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 72e8637516bb9d34fa0380991bb17708
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -57793324751458776
+    second: Wave
+  - first:
+      74: 8718206212591024191
+    second: Bee_ani|Die
+  - first:
+      74: 5360517038940363455
+    second: Bee_ani|Fly
+  - first:
+      74: -1295588624788951034
+    second: Bee_ani|PoseLib
+  - first:
+      74: 8660915539901942036
+    second: Bee_ani|YA
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: UVchecker
+    second: {fileID: 2100000, guid: 551fd989d10f97e429ed41d4e4e60db2, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Wave
+      takeName: Wave
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bee_ani|Die
+      takeName: Bee_ani|Die
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 36
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bee_ani|Fly
+      takeName: Bee_ani|Fly
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bee_ani|PoseLib
+      takeName: Bee_ani|PoseLib
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Bee_ani|YA
+      takeName: Bee_ani|YA
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Bee(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: A_Bee01_mesh
+      parentName: Bee(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: -3.7493994e-33}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bee_ani
+      parentName: Bee(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071067, y: 5.302452e-33, z: 5.302451e-33, w: 0.7071068}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Base
+      parentName: Bee_ani
+      position: {x: -5.0766324e-18, y: -0.024632296, z: -0.02286312}
+      rotation: {x: 0.53563094, y: 2.4459588e-17, z: 3.6948146e-17, w: 0.84445226}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Abdomen
+      parentName: Base
+      position: {x: 5.335315e-25, y: 0.025018342, z: -0.0000000016880222}
+      rotation: {x: 0.43407062, y: -6.403212e-17, z: -8.384664e-17, w: 0.90087885}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: Chest
+      parentName: Abdomen
+      position: {x: 9.926167e-26, y: 0.012215113, z: -2.2351741e-10}
+      rotation: {x: -0.02811374, y: 0.000000119162166, z: -0.000000003351418, w: 0.99960476}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Head
+      parentName: Chest
+      position: {x: 4.184965e-17, y: 0.007997267, z: -9.313225e-11}
+      rotation: {x: -0.052583907, y: -0.00000023808872, z: -2.290163e-15, w: 0.9986165}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Antenna01_R
+      parentName: Head
+      position: {x: -0.0064264718, y: 0.025158077, z: -0.0015562411}
+      rotation: {x: -0.10591113, y: 0.012654871, z: 0.11796448, w: 0.98727256}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Antenna02_R
+      parentName: Antenna01_R
+      position: {x: 3.352761e-10, y: 0.0088246735, z: 6.842401e-10}
+      rotation: {x: -0.14498934, y: 0.053700432, z: 0.11519985, w: 0.9812356}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Antenna01_L
+      parentName: Head
+      position: {x: 0.006426471, y: 0.025158077, z: -0.0015562442}
+      rotation: {x: -0.10591117, y: -0.012654632, z: -0.117964506, w: 0.98727256}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Antenna02_L
+      parentName: Antenna01_L
+      position: {x: 0.0000000010803342, y: 0.008824672, z: -3.811089e-10}
+      rotation: {x: -0.14498934, y: -0.053700414, z: -0.11519983, w: 0.9812357}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Wing_R
+      parentName: Chest
+      position: {x: -0.0037834202, y: 0.006928236, z: 0.0072251675}
+      rotation: {x: 0.5918867, y: -0.33325854, z: 0.3608683, w: 0.6390485}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.99999994}
+    - name: Arm_R
+      parentName: Chest
+      position: {x: -0.0055902647, y: 0.007533464, z: -0.00239835}
+      rotation: {x: 0.6786598, y: 0.67865974, z: -0.19854724, w: 0.19854715}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Forearm_R
+      parentName: Arm_R
+      position: {x: 3.5390257e-10, y: 0.007491314, z: -1.4901161e-10}
+      rotation: {x: 0.002495013, y: 0.00050760125, z: -0.032627527, w: 0.99946433}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+    - name: Hand_R
+      parentName: Forearm_R
+      position: {x: -4.4703483e-10, y: 0.005679037, z: -1.862645e-10}
+      rotation: {x: 0.09713885, y: 0.0020803544, z: -0.06936045, w: 0.9928489}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Wing_L
+      parentName: Chest
+      position: {x: 0.0037834167, y: 0.006928236, z: 0.00722517}
+      rotation: {x: 0.5918869, y: 0.3332583, z: -0.36086825, w: 0.63904846}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.9999998}
+    - name: Arm_L
+      parentName: Chest
+      position: {x: 0.005590266, y: 0.007533464, z: -0.0023983475}
+      rotation: {x: 0.6786598, y: -0.67865974, z: 0.19854726, w: 0.19854699}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Forearm_L
+      parentName: Arm_L
+      position: {x: 1.8626451e-11, y: 0.0074913125, z: -2.0489097e-10}
+      rotation: {x: 0.0024950155, y: -0.00050760864, z: 0.032627527, w: 0.99946433}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Hand_L
+      parentName: Forearm_L
+      position: {x: 1.4901161e-10, y: 0.005679037, z: 5.0291415e-10}
+      rotation: {x: 0.09713885, y: -0.0020803525, z: 0.06936044, w: 0.9928489}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Needle
+      parentName: Base
+      position: {x: 5.335315e-25, y: 0.025018342, z: -0.0000000016880222}
+      rotation: {x: -0.65559125, y: 2.0524283e-17, z: 1.5188283e-16, w: 0.75511605}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
